@@ -5,12 +5,12 @@
 #include <ESP8266WiFi.h>
 #include <ThingerWifi.h>
 
-#define USERNAME "your_user_name"
-#define DEVICE_ID "your_device_id"
-#define DEVICE_CREDENTIAL "your_device_credential"
+#define USERNAME "rodhmolina"
+#define DEVICE_ID "powermeter"
+#define DEVICE_CREDENTIAL ""
 
-#define SSID "your_wifi_ssid"
-#define SSID_PASSWORD "your_wifi_ssid_password"
+#define SSID ""
+#define SSID_PASSWORD ""
 
 ThingerWifi thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 
